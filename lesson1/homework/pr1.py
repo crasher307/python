@@ -12,7 +12,7 @@ dayName = None
 while dayName is None:
     day = int(input('Введите номер дня недели: ')) - 1
     try:
-        dayName = week[day] if day > 0 else None
+        dayName = week[day] if day >= 0 else None
         if dayName is None:
             print(f'Попробуйте снова')
     except Exception as err:
