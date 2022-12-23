@@ -16,3 +16,21 @@
 		- [pr4](https://github.com/crasher307/python/blob/master/lesson1/homework/pr4.py) - по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
 		- [pr5](https://github.com/crasher307/python/blob/master/lesson1/homework/pr5.py) - принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
 	</details>
+
+- <details><summary>Урок 2. Знакомство с Python. Продолжение</summary>
+
+	Напишите программу, которая:
+	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson2/work)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson2/work/pr1.py) - подсчитывает стоимость строки, любой символ стоит 60 копеек. Ответ в рублях и копейках.
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson2/work/pr2.py) - подсчитывает количество слов в строке.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson2/work/pr3.py) - считывает номер кармана и показывает, является ли этот карман зеленым, красным или черным.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson2/work/pr4.py) - принимает на вход число N и выдаёт последовательность из N членов.
+		- [pr5](https://github.com/crasher307/python/blob/master/lesson2/work/pr5.py) - определяет кол-во вхождений одной строки в другую, пользователь задает две строки.
+		- [pr5](https://github.com/crasher307/python/blob/master/lesson2/work/pr6.py) - задает словарь индекс-значение из эл-ов последовательности 3n + 1, n вводится пользователем.
+	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson2/homework)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson2/homework/pr1.py) - принимает на вход вещественное число и показывает сумму его цифр.
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson2/homework/pr2.py) - принимает на вход число N и выдает набор произведений чисел от 1 до N.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson2/homework/pr3.py) - задает список из n чисел последовательности (1+1/n)**n и выводит на экран их сумму.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson2/homework/pr4.py) - задает список из N элементов, заполненных числами из промежутка [-N, N], находит произведение элементов на указанных позициях, хранящихся во 2 списке.
+		- [pr5](https://github.com/crasher307/python/blob/master/lesson2/homework/pr5.py) - реализует алгоритм перемешивания списка. (рандомно поменять местами элементы списка между собой)
+	</details>
