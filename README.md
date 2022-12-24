@@ -34,3 +34,19 @@
 		- [pr4](https://github.com/crasher307/python/blob/master/lesson2/homework/pr4.py) - задает список из N элементов, заполненных числами из промежутка [-N, N], находит произведение элементов на указанных позициях, хранящихся во 2 списке.
 		- [pr5](https://github.com/crasher307/python/blob/master/lesson2/homework/pr5.py) - реализует алгоритм перемешивания списка. (рандомно поменять местами элементы списка между собой)
 	</details>
+
+- <details><summary>Урок 3. Данные, функции и модули в Python</summary>
+
+	Напишите программу, которая:
+	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson3/work)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson3/work/pr1.py) - играет в "камень/ножницы/бумага/ящерица/Спок"
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson3/work/pr2.py) - подсчитывает наибольшее количество подряд выпавших Решек.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson3/work/pr3.py) - ищет последовательность искомой строки в списке и выводит найденое.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson3/work/pr4.py) - создает текстовый файл, записывает в него построчно данные, которые вводит пользователь.
+	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson3/homework)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson3/homework/pr1.py) - найдёт сумму элементов списка, стоящих на нечётной позиции.
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson3/homework/pr2.py) - найдёт произведение пар чисел списка. Парой считаем первый и последний элемент, второй и предпоследний и т.д.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson3/homework/pr3.py) - найдёт разницу между максимальным и минимальным значением дробной части элементов.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson3/homework/pr4.py) - будет преобразовывать десятичное число в двоичное.
+		- [pr5](https://github.com/crasher307/python/blob/master/lesson3/homework/pr5.py) - составит список чисел Фибоначчи, в том числе для отрицательных индексов.
+	</details>
