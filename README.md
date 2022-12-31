@@ -50,3 +50,19 @@
 		- [pr4](https://github.com/crasher307/python/blob/master/lesson3/homework/pr4.py) - будет преобразовывать десятичное число в двоичное.
 		- [pr5](https://github.com/crasher307/python/blob/master/lesson3/homework/pr5.py) - составит список чисел Фибоначчи, в том числе для отрицательных индексов.
 	</details>
+
+- <details><summary>Урок 4. Данные, функции и модули в Python. Продолжение</summary>
+
+	Напишите программу, которая:
+	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson4/work)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson4/work/pr1.py) - подсчитывает количество чисел, которые больше предшествующего им в списке.
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson4/work/pr2.py) - меняет местами соседние элементы списка (a[0] c a[1], a[2] c a[3] и т.д.).
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson4/work/pr3.py) - проверяет является ли введенное слово палиндромом.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson4/work/pr4.py) - составляет словарь номеров телефонов с ключами в виде кодов страны.
+	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson4/homework)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson4/homework/pr1.py) - вычисляет число c заданной точностью.
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson4/homework/pr2.py) - составит список простых множителей числа N.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson4/homework/pr3.py) - выведет список неповторяющихся элементов исходной последовательности.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson4/homework/pr4.py) - формирует список коэффициентов (значения от 0 до 100) многочлена и записывает в файл многочлен степени k.
+		- [pr5](https://github.com/crasher307/python/blob/master/lesson4/homework/pr5.py) - формирует файл, содержащий сумму многочленов (хранятся в 2х др. файлах).
+	</details>
