@@ -6,9 +6,11 @@
 
 num = int(input('Введите число: '))
 
-res = ''
-while num > 0:
-    res = str(num % 2) + res
-    num //= 2
+# res = ''
+# while num > 0:
+#     res = str(num % 2) + res
+#     num //= 2
 
-print(f'Result: {res}')
+# print(f'Result: {res}')
+
+print(f'Result: {bin(num)[2::]}')

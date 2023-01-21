@@ -14,4 +14,4 @@ def fctr(number):
     return res
 
 
-print(fctr(abs(int(input('Введите натуральное число: ')))))
+print(f'Простые множители введенного числа: {fctr(abs(int(input("Введите натуральное число: "))))}')
