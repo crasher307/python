@@ -41,7 +41,7 @@
 	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson3/work)
 		- [pr1](https://github.com/crasher307/python/blob/master/lesson3/work/pr1.py) - играет в "камень/ножницы/бумага/ящерица/Спок"
 		- [pr2](https://github.com/crasher307/python/blob/master/lesson3/work/pr2.py) - подсчитывает наибольшее количество подряд выпавших Решек.
-		- [pr3](https://github.com/crasher307/python/blob/master/lesson3/work/pr3.py) - ищет последовательность искомой строки в списке и выводит найденое.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson3/work/pr3.py) - ищет последовательность искомой строки в списке и выводит найденное.
 		- [pr4](https://github.com/crasher307/python/blob/master/lesson3/work/pr4.py) - создает текстовый файл, записывает в него построчно данные, которые вводит пользователь.
 	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson3/homework)
 		- [pr1](https://github.com/crasher307/python/blob/master/lesson3/homework/pr1.py) - найдёт сумму элементов списка, стоящих на нечётной позиции.
@@ -57,12 +57,42 @@
 	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson4/work)
 		- [pr1](https://github.com/crasher307/python/blob/master/lesson4/work/pr1.py) - подсчитывает количество чисел, которые больше предшествующего им в списке.
 		- [pr2](https://github.com/crasher307/python/blob/master/lesson4/work/pr2.py) - меняет местами соседние элементы списка (a[0] c a[1], a[2] c a[3] и т.д.).
-		- [pr3](https://github.com/crasher307/python/blob/master/lesson4/work/pr3.py) - проверяет является ли введенное слово палиндромом.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson4/work/pr3.py) - проверяет, является ли введенное слово палиндромом.
 		- [pr4](https://github.com/crasher307/python/blob/master/lesson4/work/pr4.py) - составляет словарь номеров телефонов с ключами в виде кодов страны.
 	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson4/homework)
-		- [pr1](https://github.com/crasher307/python/blob/master/lesson4/homework/pr1.py) - вычисляет число c заданной точностью.
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson4/homework/pr1.py) - вычисляет число с заданной точностью.
 		- [pr2](https://github.com/crasher307/python/blob/master/lesson4/homework/pr2.py) - составит список простых множителей числа N.
 		- [pr3](https://github.com/crasher307/python/blob/master/lesson4/homework/pr3.py) - выведет список неповторяющихся элементов исходной последовательности.
 		- [pr4](https://github.com/crasher307/python/blob/master/lesson4/homework/pr4.py) - формирует список коэффициентов (значения от 0 до 100) многочлена и записывает в файл многочлен степени k.
 		- [pr5](https://github.com/crasher307/python/blob/master/lesson4/homework/pr5.py) - формирует файл, содержащий сумму многочленов (хранятся в 2х др. файлах).
+	</details>
+
+- <details><summary>Урок 5. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension</summary>
+
+	Напишите программу, которая:
+	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson5/work)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson5/work/pr1.py) - рассчитывает нод двух чисел(быстрый и медленный способ).
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson5/work/pr2.py) - объявляет анонимную (лямбда) функцию для определения вхождения в переданную ей строку фрагмента.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson5/work/pr3.py) - заменяет все отрицательные числа на -1.0 в списке, сформированном из введенной строки.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson5/work/pr4.py) - выводит в порядке возрастания список уникальных четных номиналов монет (входящих в оба списка), сформированный из 2 списков.
+	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson5/homework)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson5/homework/pr1.py) - удаляет из текста все слова, содержащие "абв".
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson5/homework/pr2.py) - играет с конфетами человек против человека/бота (придумать "интеллект").
+		- **[in process]** [pr3](https://github.com/crasher307/python/blob/master/lesson5/homework/pr3.py) - ?
+		- **[in process]** [pr4](https://github.com/crasher307/python/blob/master/lesson5/homework/pr4.py) - ?
+	</details>
+
+- <details><summary>Урок 6. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension. Продолжение</summary>
+
+	Напишите программу, которая:
+	- [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson6/work)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson6/work/pr1.py) - оставляет в списке целых чисел (вводится в строку через пробел) только двузначные числа.
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson6/work/pr2.py) - выводит отдельно буквы и цифры из списка.
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson6/work/pr3.py) - преобразовывает набор списков.
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson6/work/pr4.py) - с помощью list comprehension формирует двумерный список размером N x N, состоящий из нулей, а по главной диагонали - единиц.
+	- [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson6/homework)
+		- [pr1](https://github.com/crasher307/python/blob/master/lesson6/homework/pr1.py) - предложить улучшение кода для work/pr1
+		- [pr2](https://github.com/crasher307/python/blob/master/lesson6/homework/pr2.py) - предложить улучшение кода для work/pr2
+		- [pr3](https://github.com/crasher307/python/blob/master/lesson6/homework/pr3.py) - предложить улучшение кода для work/pr3
+		- [pr4](https://github.com/crasher307/python/blob/master/lesson6/homework/pr4.py) - предложить улучшение кода для work/pr4
 	</details>
