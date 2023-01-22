@@ -2,7 +2,7 @@
 # должна возвращать True, если такой фрагмент присутствует в строке и False - в противном случае.
 
 s = 'Hello world!'
-srch = lambda x, y: y in x
+srch = lambda x, y: y.lower() in x.lower()
 
 print(f'Str: {s}')
 
