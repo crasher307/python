@@ -107,5 +107,5 @@
         - [pr4](https://github.com/crasher307/python/blob/master/lesson7/work/pr4.py) - формирует 10 пар кортежей из введенной строки формата (символ, порядковый индекс).
         - [pr4](https://github.com/crasher307/python/blob/master/lesson7/work/pr5.py) - подсчитает и выведет сумму квадратов всех двузначных чисел, делящихся на 9.
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson7/homework)
-        - [pr1](https://github.com/crasher307/python/blob/master/lesson7/homework/pr1.py) - обрабатывает телефонный справочник (с возможностью импорта/экспорта txt, csv форматов).
+        - **[check TODO]** [pr1](https://github.com/crasher307/python/blob/master/lesson7/homework/pr1.py) - обрабатывает телефонный справочник (с возможностью импорта/экспорта txt, csv форматов).
     </details>
