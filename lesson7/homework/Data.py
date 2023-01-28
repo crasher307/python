@@ -1,15 +1,18 @@
 import datetime
+import math
 import traceback
 
 
-class useFile:
+class Data:
     __debugMode = False
+    __logFile = 'files/log.txt'
+
     __file = None
     __encoding = 'cp1251'
     __format = {
         'csv': {  # format
-            'row': '\n',  # rows_separator
-            'field': ';'  # fields_separator
+            'row': '\n',  # row_separator
+            'field': ';'  # field_separator
         },
         'txt': {
             'row': '\n',
@@ -45,10 +48,9 @@ class useFile:
                 self.__log(__err)
 
     def search(self, key, value):
-        return list(filter(lambda x: x[key] == str(value), self.data))
+        return list(filter(lambda x: str(value) in x[key], self.data))
 
     def __init__(self, file, f='csv'):  # Инициализация (считывание файла)
-        self.__logFile = 'log.txt'
         self.__isInit = False
         self.__file = file
         try:
@@ -68,7 +70,6 @@ class useFile:
             self.__log(f'Формат {__key} не задан, выберите из установленных {list(self.__format.keys())}')
         except Exception as __err:
             self.__log(__err)
-        pass
 
     '''
     *** Для внутреннего пользования ***
@@ -91,7 +92,7 @@ class useFile:
             ])] + [' | '.join([
                 str(__item[__k] if __item[__k] else '').ljust(__maxLen[__i]) for __i, __k in enumerate(__item)
             ]) for __item in self.data[__start:__end]] + [
-                f'--- Страница {page} ---'
+                f'--- Страница {page} из {math.ceil(len(self.data) / count)} ---'
             ]
         ))
 
