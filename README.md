@@ -78,8 +78,8 @@
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson5/homework)
         - [pr1](https://github.com/crasher307/python/blob/master/lesson5/homework/pr1.py) - удаляет из текста все слова, содержащие "абв".
         - [pr2](https://github.com/crasher307/python/blob/master/lesson5/homework/pr2.py) - играет с конфетами человек против человека/бота (придумать "интеллект").
-        - **[in process]** [pr3](https://github.com/crasher307/python/blob/master/lesson5/homework/pr3.py) - ?
-        - **[in process]** [pr4](https://github.com/crasher307/python/blob/master/lesson5/homework/pr4.py) - ?
+        - [pr3](https://github.com/crasher307/python/blob/master/lesson5/homework/pr3.py) - позволяет играть в "Крестики-нолики".
+        - [pr4](https://github.com/crasher307/python/blob/master/lesson5/homework/pr4.py) - использует RLE алгоритм (реализуйте модуль сжатия и восстановления данных).
     </details>
 
 - <details><summary>Урок 6. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension. Продолжение</summary>
