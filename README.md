@@ -107,7 +107,7 @@
         - [pr4](https://github.com/crasher307/python/blob/master/lesson7/work/pr4.py) - формирует 10 пар кортежей из введенной строки формата (символ, порядковый индекс).
         - [pr4](https://github.com/crasher307/python/blob/master/lesson7/work/pr5.py) - подсчитает и выведет сумму квадратов всех двузначных чисел, делящихся на 9.
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson7/homework)
-        - **[check TODO]** [pr1](https://github.com/crasher307/python/blob/master/lesson7/homework/pr1.py) - обрабатывает телефонный справочник (с возможностью импорта/экспорта txt, csv форматов).
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson7/homework/pr1.py) - **[check TODO]** обрабатывает телефонный справочник (с возможностью импорта/экспорта txt, csv форматов).
     </details>
 
 - <details><summary>Урок 8. Python: от простого к практике. Продолжение</summary>
@@ -116,5 +116,14 @@
     - ~~[Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson8/work)~~
         - ~~[pr1](https://github.com/crasher307/python/blob/master/lesson8/work/pr1.py)~~ - Создать информационную систему, позволяющую работать с сотрудниками некой компании/студентами вуза/учениками школы.
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson8/homework)
-        - **[check TODO]** [pr1](https://github.com/crasher307/python/blob/master/lesson8/homework/pr1.py) - Доделать решение задачи
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson8/homework/pr1.py) - **[check TODO]** Доделать решение задачи.
+    </details>
+
+- <details><summary>Урок 9. Возможна ли жизнь без PIP?</summary>
+
+    ~~Напишите программу, которая:~~
+    - ~~[Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson9/work)~~
+        - ~~[pr1](https://github.com/crasher307/python/blob/master/lesson9/work/pr1.py)~~ - ???
+    - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson9/homework)
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson9/homework/pr1.py) - Создать любого бота телеграмм (можно самый простой), вложить requirements.txt.
     </details>

@@ -2,3 +2,5 @@
 .vscode
 venv*/
 main.py
+config.py
+tasks.*
