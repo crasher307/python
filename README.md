@@ -112,18 +112,30 @@
 
 - <details><summary>Урок 8. Python: от простого к практике. Продолжение</summary>
 
-    ~~Напишите программу, которая:~~
-    - ~~[Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson8/work)~~
-        - ~~[pr1](https://github.com/crasher307/python/blob/master/lesson8/work/pr1.py)~~ - Создать информационную систему, позволяющую работать с сотрудниками некой компании/студентами вуза/учениками школы.
+    - ~~[Работа во время семинара]~~
+        - ~~[pr1]~~ - Создать информационную систему, позволяющую работать с сотрудниками некой компании/студентами вуза/учениками школы.
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson8/homework)
         - [pr1](https://github.com/crasher307/python/blob/master/lesson8/homework/pr1.py) - **[check TODO]** Доделать решение задачи.
     </details>
 
 - <details><summary>Урок 9. Возможна ли жизнь без PIP?</summary>
 
-    ~~Напишите программу, которая:~~
-    - ~~[Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson9/work)~~
-        - ~~[pr1](https://github.com/crasher307/python/blob/master/lesson9/work/pr1.py)~~ - ???
+    - ~~[Работа во время семинара]~~
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson9/homework)
         - [pr1](https://github.com/crasher307/python/blob/master/lesson9/homework/pr1.py) - Создать любого бота телеграмм (можно самый простой), вложить requirements.txt.
+    </details>
+
+- <details><summary>Урок 10. Возможна ли жизнь без PIP? Продолжение</summary>
+
+    - ~~[Работа во время семинара]~~
+    - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson10/homework)
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson10/homework/pr1.py) - Создать телеграмм бота желательно сложнее чем калькулятор. Проявите свою фантазию и сделайте что-то интересное)
+    </details>
+
+- <details><summary>Урок 11. Jupyter Notebook и несколько слов об аналитике</summary>
+
+    - [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson11/work)
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson11/work/pr1.ipynb) - Скопировать [файл](https://colab.research.google.com/drive/11udiVDM85HFjqLqDqfz0ef9NLBgHUWn-?usp=share_link)
+    - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson11/homework)
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson11/homework/pr1.ipynb) - выполнить все задания (3 модуля заданий).
     </details>
