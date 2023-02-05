@@ -2,5 +2,7 @@
 .vscode
 venv*/
 main.py
+myLib.py
 config.py
 tasks.*
+*pycache*/

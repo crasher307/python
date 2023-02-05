@@ -139,3 +139,10 @@
     - [Домашнее задание](https://github.com/crasher307/python/tree/master/lesson11/homework)
         - [pr1](https://github.com/crasher307/python/blob/master/lesson11/homework/pr1.ipynb) - выполнить все задания (3 модуля заданий).
     </details>
+
+- <details><summary>Урок 12. Jupyter Notebook и несколько слов об аналитике. Продолжение</summary>
+
+    - [Работа во время семинара](https://github.com/crasher307/python/tree/master/lesson12/work)
+        - [pr1](https://github.com/crasher307/python/blob/master/lesson12/work/pr1.ipynb) - Пингвины, Титаник.
+    - ~~[Домашнее задание]~~
+    </details>
